@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29102.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "restlessmedia.Test", "src\restlessmedia.Test.csproj", "{A1CF7AF8-297C-4AB7-92F3-1806349FEDF0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "restlessmedia.Test.UnitTest", "restlessmedia.Test.UnitTest\restlessmedia.Test.UnitTest.csproj", "{1C5BF560-71C8-4CC7-95F7-BF2E24EBCD53}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{7FFC20C8-37A2-4C2D-A5F0-B5D14C8F50D1}"
+	ProjectSection(SolutionItems) = preProject
+		nuget.config = nuget.config
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A1CF7AF8-297C-4AB7-92F3-1806349FEDF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1CF7AF8-297C-4AB7-92F3-1806349FEDF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1CF7AF8-297C-4AB7-92F3-1806349FEDF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1CF7AF8-297C-4AB7-92F3-1806349FEDF0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C5BF560-71C8-4CC7-95F7-BF2E24EBCD53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C5BF560-71C8-4CC7-95F7-BF2E24EBCD53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C5BF560-71C8-4CC7-95F7-BF2E24EBCD53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C5BF560-71C8-4CC7-95F7-BF2E24EBCD53}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9E49C787-ED3D-49C1-9304-29C779D03668}
+	EndGlobalSection
+EndGlobal
